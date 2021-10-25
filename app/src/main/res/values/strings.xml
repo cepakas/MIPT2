@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MIPT2</string>
+    <string name="btn_Input_name">Skaiciuoti</string>
+    <string-array name="counter_options"><item>Zodziai</item><item>Skyriamieji zenklai</item></string-array>
+</resources>
